@@ -46,11 +46,11 @@ Se hizo una encuesta de filtro, para poder contactarse con los futuros usuarios 
 
 [sketch del producto](https://trello.com/c/Roke1P6A/10-crear-sketch-del-producto-5)
 
-[index](https://user-images.githubusercontent.com/39053734/43400336-78ffc59a-93db-11e8-9638-b28a8504498e.jpeg)
-[index1](https://user-images.githubusercontent.com/39053734/43400372-8c9fc334-93db-11e8-9817-d525cdc1ff87.jpeg)
-[index2](https://user-images.githubusercontent.com/39053734/43400398-99ff81d6-93db-11e8-9d1d-06a310c0e522.jpeg)
-[index4](https://user-images.githubusercontent.com/39053734/43400422-a782fe14-93db-11e8-8720-957774211fba.jpeg)
-[index5](https://user-images.githubusercontent.com/39053734/43400447-b76612ee-93db-11e8-907b-48ef6c23be65.jpeg)
+![index](https://user-images.githubusercontent.com/39053734/43400336-78ffc59a-93db-11e8-9638-b28a8504498e.jpeg)
+![index1](https://user-images.githubusercontent.com/39053734/43400372-8c9fc334-93db-11e8-9817-d525cdc1ff87.jpeg)
+![index2](https://user-images.githubusercontent.com/39053734/43400398-99ff81d6-93db-11e8-9d1d-06a310c0e522.jpeg)
+![index4](https://user-images.githubusercontent.com/39053734/43400422-a782fe14-93db-11e8-8720-957774211fba.jpeg)
+![index5](https://user-images.githubusercontent.com/39053734/43400447-b76612ee-93db-11e8-907b-48ef6c23be65.jpeg)
 
 
 ## Testing
